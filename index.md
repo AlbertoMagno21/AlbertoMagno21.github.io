@@ -3,7 +3,7 @@ Articoli su bitcoin, privacy e securezza
 
 #### *Bitcoin*
 
-- [ ]   [Sats-Sats-car](https://github.com/AlbertoMagno21/AlbertoMagno21.github.io/blob/main/Sats_sats_car.md)
+- [ ]   [Sats-Sats-car](https://github.com/AlbertoMagno21/AlbertoMagno21.github.io/blob/main/Bitcoin/Sats_Sats_Car.md)
 - [ ]  
 
 #### *Privacy*
