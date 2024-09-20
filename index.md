@@ -1,9 +1,9 @@
 # Alberto Magno 21
-Articoli su bitcoin, privacy e securezza
+Articoli su bitcoin, privacy e sicurezza
 
 #### *Bitcoin*
 | Bitcoin                                    |
-|--_-----------------------------------------|
+|--------------------------------------------|
 | [Sats-Sats-Car](./Bitcoin/Sats_Sats_Car/)  |
 | ggg                                        |
 
