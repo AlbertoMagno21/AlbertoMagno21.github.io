@@ -5,12 +5,11 @@ Articoli su bitcoin, privacy e sicurezza
 
 | Argomenti                                    |
 |--------------------------------------------|
-| [Sats-Sats-Car](./Bitcoin/Sats_Sats_Car/)  |
+| [Sats-Sats-Car](./Bitcoin/SSC/)  |
 | ggg                                        |
 
 
-
-- [ ]   [Sats-Sats-car](https://github.com/AlbertoMagno21/AlbertoMagno21.github.io/blob/main/Bitcoin/Sats_Sats_Car/Sats_Sats_Car.md)
+- [ ] 
 - [ ]  
 
 #### *Privacy*
