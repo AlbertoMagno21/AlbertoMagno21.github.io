@@ -1,5 +1,5 @@
 # Alberto Magno 21
-Articoli su bitcoin, privacy e sicurezza
+Articoli su bitcoin, Privacy & Sicurezza, Linux
 
 ## *Bitcoin*
 
@@ -9,15 +9,13 @@ Articoli su bitcoin, privacy e sicurezza
 | ggg                                        |
 
 
-- [ ] 
-- [ ]  
+#### *Privacy & Sicurity*
 
-#### *Privacy*
+| Argomenti   |
+|-------------------|
+|[GrafeneOS](https://grapheneos.org/)|
 
-- [ ]   [GrafeneOS]()
-- [ ] 
+#### *Linux e curiosità*
 
-#### *Sicurezza*
-
-- [ ]   [....]
-- [ ]  
+- [ ]   Markdown
+- [ ]   Github
